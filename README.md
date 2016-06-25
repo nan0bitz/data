@@ -7,3 +7,5 @@ Documentation and subtitles regarding 'F4U' or 'Facility For You'; originally th
 //enables at-risk-youth with value/tangibility for huge career potential
 
 The name does not reflect the purpose of the system or program; so the concept will be renamed properly; understanding the execution and functionality of this system maybe the name could be "business analytical engine" (bae) for individuals; maps "unique characteristics" (uc); the entire process must be thoroughly checked prior to deciding the actual name
+
+Developed concept by Brian Ettienne (NDC) Initial start **July 2012**
