@@ -1,6 +1,6 @@
 # F4U
 
-Documentation and subtitles regarding 'F4U' or 'Facility For You'; originally the concept was thought of actual working in an office environment (HR Block) however, after discussing this with other business associates; it was mentioned that this could be used as:
+Documentation and subtitles regarding 'F4U' or 'Facility For You'; originally the concept was thought of actual working in an office environment because I saw it visually working there however, after discussing this with other business associates; it was mentioned that this could be used as:
 //an app
 //solution for individuals who lose their jobs on a mass scale
 //provides key directional guidance for those no longer in prison
